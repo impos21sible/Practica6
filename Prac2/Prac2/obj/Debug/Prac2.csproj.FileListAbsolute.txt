@@ -1,0 +1,13 @@
+E:\YP\Prac2\Prac2\bin\Debug\Prac2.exe.config
+E:\YP\Prac2\Prac2\bin\Debug\Prac2.exe
+E:\YP\Prac2\Prac2\bin\Debug\Prac2.pdb
+E:\YP\Prac2\Prac2\obj\Debug\MainWindow.baml
+E:\YP\Prac2\Prac2\obj\Debug\MainWindow.g.cs
+E:\YP\Prac2\Prac2\obj\Debug\App.g.cs
+E:\YP\Prac2\Prac2\obj\Debug\Prac2_MarkupCompile.cache
+E:\YP\Prac2\Prac2\obj\Debug\Prac2.g.resources
+E:\YP\Prac2\Prac2\obj\Debug\Prac2.Properties.Resources.resources
+E:\YP\Prac2\Prac2\obj\Debug\Prac2.csproj.GenerateResource.cache
+E:\YP\Prac2\Prac2\obj\Debug\Prac2.csproj.CoreCompileInputs.cache
+E:\YP\Prac2\Prac2\obj\Debug\Prac2.exe
+E:\YP\Prac2\Prac2\obj\Debug\Prac2.pdb
