@@ -1,0 +1,20 @@
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\ТестыЗадание2.dll
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\ТестыЗадание2.pdb
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\Задание 2.exe
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\Задание 2.pdb
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\Задание 2.exe.config
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\YP\Практика 5 задание 1\ТестыЗадание2\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\YP\Практика 5 задание 1\ТестыЗадание2\obj\Debug\ТестыЗадание2.csproj.AssemblyReference.cache
+E:\YP\Практика 5 задание 1\ТестыЗадание2\obj\Debug\ТестыЗадание2.csproj.CoreCompileInputs.cache
+E:\YP\Практика 5 задание 1\ТестыЗадание2\obj\Debug\ТестыЗадание2.csproj.CopyComplete
+E:\YP\Практика 5 задание 1\ТестыЗадание2\obj\Debug\ТестыЗадание2.dll
+E:\YP\Практика 5 задание 1\ТестыЗадание2\obj\Debug\ТестыЗадание2.pdb

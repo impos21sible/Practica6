@@ -1,0 +1,17 @@
+﻿<Window x:Class="Zadanie4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WPF App" Height="400" Width="400">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Введите значение a:"/>
+            <TextBox x:Name="inputA" Width="120" Margin="0 5"/>
+            <TextBlock Text="Введите значение b:"/>
+            <TextBox x:Name="inputB" Width="120" Margin="0 5"/>
+            <TextBlock Text="Введите значение h:"/>
+            <TextBox x:Name="inputH" Width="120" Margin="0 5"/>
+            <Button x:Name="generateTableButton" Content="Сгенерировать таблицу" Width="150" Click="GenerateTableButton_Click" Margin="0 10"/>
+            <Label x:Name="resultLabel" Content="" HorizontalAlignment="Center" FontWeight="Bold"/>
+        </StackPanel>
+    </Grid>
+</Window>
